@@ -3,5 +3,4 @@ Performed manual testing on an OpenCart e-commerce web application as a self-ini
 <br>
 Author - YASHWANTH T R
 <br>
-Date - 02/05/2026
-<p style="color: red">My Fourth Paragraph</p>
+Date - 02/05/2026 <br>
